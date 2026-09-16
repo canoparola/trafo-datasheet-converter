@@ -1,0 +1,14 @@
+HOLD NOTES (Kritik Gereksinimler)
+=================================
+
+Hold 1: Client to specify the 66 kV system neutral earthing arrangement, short circuit capacity and the selection of the HV cable and earthing connection sizes.
+
+Hold 2: Client to confirm the specified value. These parameters govern the selection of the HV cable and earthing connection sizes.
+
+Hold 3: HV cable size to be confirmed. Rated Current 525 A at 10 MVA / 11 kV, ambient +45 °C
+
+Hold 4: LV cable size to be confirmed. Rated Current 525 A at 10 MVA / 11 kV, ambient +45 °C
+
+Hold 5: Neutral CT ratio to be selected based on NER current, which is to be determined by the power setting using the total 11 kV system cable current. NER resistance shall be derived from the selected NER current.
+
+Hold 6: Vibration levels at the transformer mounting location shall be provided by the Structural Discipline / Tower Designer. Vendor shall confirm suitability of the transformer for the specified vibration environment and provide any specific mounting or fixing requirements.

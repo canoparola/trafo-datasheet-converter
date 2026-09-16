@@ -1,0 +1,30 @@
+PROJECT NOTES (Genel Açıklamalar)
+==================================
+
+Note 1: Items marked VTA are to be completed by the Vendor; all other data is completed by the Buyer. Deviations shall be stated by the Vendor.
+
+Note 2: Items marked * 2 are to be finalized at a later stage.
+
+Note 3: The transformer type is not prescribed. The Vendor shall propose the type, insulation medium and cooling method suitable for continuous exposure to salt-laden air and up to 100 % relative humidity. The active part shall be sealed against the atmosphere. Forced cooling is not acceptable due to the unattended operation requirement; cooling shall be by natural circulation only.
+
+Note 4: The tower is unattended; no continuous item shall allow replacement between maintenance intervals. The Vendor shall also state the required maintenance regime.
+
+Note 5: The transformer is mounted on an offshore tower structure with a rotating head. Vibration levels will be advised. The Vendor shall state the vibration qualification of the offered unit and of its fittings. See Hold Note 6 for vibration requirements.
+
+Note 6: Corrosion protection shall be in accordance with ISO 12944-2 category C5.
+
+Note 7: Where a liquid-immersed unit is offered, the Vendor shall state the total liquid volume for sizing of the containment arrangement.
+
+Note 8: The Vendor shall state overall dimensions, transport and operating weights, and offloading arrangements, for offshore installation and future replacement.
+
+Note 9: If liquid immersed type is selected: Hermetically sealed tank or sealed conservator system shall be provided. The Vendor shall state the arrangement offered and how liquid expansion is accommodated.
+
+Note 10: All indications and alarms shall be available as remote signals to the ICSS; local-only indication is not acceptable. The Vendor shall state the signal list and accuracy offered.
+
+Note 11: The lightning arrester rating is based on an assumed earth fault level not exceeding 1.4 (effectively earth-fault-to-line-voltage ratio < 60°/11 kV).
+
+Note 12: Neutral cable size assumes the NER is not continuously rated, consistent with the BDI requirement to de-energise within 200 ms. To be reviewed if a continuously rated NER is adopted.
+
+Note 13: Cable glands shall be vented to separate terminals with a separate cable entry in the marshalling box. The Vendor shall state the interface offered.
+
+Note 14: The Vendor shall state the knee point voltage (Ek), secondary winding resistance (Rct) and excitation current (Ie) for all PX class current transformers.
